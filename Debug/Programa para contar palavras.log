@@ -1,0 +1,5 @@
+﻿  Programa para contar palavras.cpp
+D:\GitHubRepositories\Programa para contar palavras\Programa para contar palavras.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHubRepositories\Programa para contar palavras\Programa para contar palavras.cpp(7,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\GitHubRepositories\Programa para contar palavras\Programa para contar palavras.cpp(25,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Programa para contar palavras.vcxproj -> D:\GitHubRepositories\Programa para contar palavras\Debug\Programa para contar palavras.exe
